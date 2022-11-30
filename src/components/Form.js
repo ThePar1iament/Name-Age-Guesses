@@ -77,7 +77,7 @@ export default function Form() {
           onChange={handleChange}
           value={name}
         />
-        <button type="button" value="Submit" className="" onClick={handleClick}>
+        <button type="button" value="Submit" className="m-3" onClick={handleClick}>
           Submit{' '}
         </button>
       </form>
